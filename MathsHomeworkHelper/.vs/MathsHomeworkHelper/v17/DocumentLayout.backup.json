@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aaron\\Documents\\GitHub\\MathsHomeworkHelper\\MathsHomeworkHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3A0BEC-09C2-A16E-9712-968D7215D078}|Assembly-CSharp.csproj|c:\\users\\aaron\\documents\\github\\mathshomeworkhelper\\mathshomeworkhelper\\assets\\_scripts\\scrolllistinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A0BEC-09C2-A16E-9712-968D7215D078}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\scrolllistinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3A0BEC-09C2-A16E-9712-968D7215D078}|Assembly-CSharp.csproj|c:\\users\\aaron\\documents\\github\\mathshomeworkhelper\\mathshomeworkhelper\\assets\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3A0BEC-09C2-A16E-9712-968D7215D078}|Assembly-CSharp.csproj|solutionrelative:assets\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrollListInitialiser.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Documents\\GitHub\\MathsHomeworkHelper\\MathsHomeworkHelper\\Assets\\_Scripts\\ScrollListInitialiser.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ScrollListInitialiser.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Documents\\GitHub\\MathsHomeworkHelper\\MathsHomeworkHelper\\Assets\\_Scripts\\ScrollListInitialiser.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ScrollListInitialiser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:17:54.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Features.cs",
+              "DocumentMoniker": "C:\\Users\\Aaron\\Documents\\GitHub\\MathsHomeworkHelper\\MathsHomeworkHelper\\Assets\\Features.cs",
+              "RelativeDocumentMoniker": "Assets\\Features.cs",
+              "ToolTip": "C:\\Users\\Aaron\\Documents\\GitHub\\MathsHomeworkHelper\\MathsHomeworkHelper\\Assets\\Features.cs",
+              "RelativeToolTip": "Assets\\Features.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:09:16.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
